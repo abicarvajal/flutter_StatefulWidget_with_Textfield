@@ -1,10 +1,10 @@
-# forms_without_widgets
+# forms_without_widgets_flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. A simple example of Flutter.
+This project is a starting point for a Flutter application. A simple example with Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
